@@ -1,2 +1,2 @@
 # dreamerwhodoes
-This my first day in github
+This is my first day in github
